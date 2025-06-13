@@ -26,8 +26,6 @@ dependencies:
   - pyyaml
   - pandas
   - requests
-  - libjpeg
-  - libpng
   - pip
   - pip:
     - vizdoom
